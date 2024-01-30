@@ -1,0 +1,64 @@
+.textbox {
+    width: 45%;
+    float: left;
+    height:100vh;
+    border: 3px solid #ccc;
+    padding: 10px;
+    box-sizing: border-box;
+    border-radius: 30px;
+    color: black;
+    margin-left: 2.5%;
+  }
+  
+  #preview {
+    float: right;
+  }
+  
+  .toolbar {
+    background-color: #f0f0f0;
+    max-height:fit-content;
+    border-bottom: 2px solid #ccc;
+    text-align:center;
+    border-radius: 20px;
+  }
+  
+  .toolbar  {
+    margin-left: 3px;
+  }
+  
+  textarea {
+    width: 97%;
+    height:89vh; /* Adjust height as needed */
+    resize: vertical;
+    padding:5px ;
+    border-radius: 20px;
+  }
+  
+  #preview {
+    width: 45%;
+    margin-right: 2.5%;
+    height: fit-content;
+    border: 3px solid #ccc;
+    padding: 10px;
+    border-radius: 30px;
+    box-sizing: border-box;
+  }
+  img{
+    max-width:100px;
+    max-height: 100px;
+  }
+  a{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:yellowgreen;
+  }
+  pre{
+  background-color:cadetblue;
+  border: 3px;
+  border-radius: 8px;
+  padding: 5%;
+  box-shadow: 2px 2px  2px palevioletred;
+  }
+  .icon{
+    font-size: 30px;
+    margin: 0;
+  }
